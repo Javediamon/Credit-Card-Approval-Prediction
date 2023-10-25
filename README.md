@@ -14,7 +14,7 @@ While observing every column separately, we observed the values which are wrongl
 
 The Dataset after every cleaning is done is saved as a file and attached below.
 
-The Cleaned Dataset
+Cleaned_dataset
 
 while performing Exploratory data analysis, we performed univariate analysis.i.e., histogram and pie chart for some columns, Bivariate Analysis.i.e., box plot,Scatter plot, correlation between data using heatmap and listed down the observations accordingly.
 
